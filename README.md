@@ -59,7 +59,7 @@ src/
 
 | Project | Live | Built with |
 |---|---|---|
-| ResumeIQ | [resumeiq-harsh.vercel.app](https://resumeiq-harsh.vercel.app) | React, Gemini API, Vercel |
+| ResumeIQ | [resumeiq-dhyan.vercel.app](https://resumeiq-dhyan.vercel.app) | React, Gemini API, Vercel |
 | Notch | [notch-zeta.vercel.app](https://notch-zeta.vercel.app) | React, Tailwind, Framer Motion |
 
 ## Customisation
@@ -77,4 +77,4 @@ src/
 
 ## Credits
 
-Designed & built by **Harsh Goyal** · [LinkedIn](https://www.linkedin.com/in/harsh-goyal-7900b2256/) · [GitHub](https://github.com/harshgoyal27)
+Designed & built by **Dhyan Patel** · [LinkedIn](https://www.linkedin.com/in/dhyan-patel-9a760b213/) · [GitHub](https://github.com/Dhyanpatel15)
