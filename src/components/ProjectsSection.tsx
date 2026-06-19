@@ -36,7 +36,7 @@ const PROJECTS: ProjectData[] = [
       number: '03',
       category: 'Personal',
       name: 'CreatorSoulmodel',
-      liveUrl: ' http://82.29.162.40/auth',
+      liveUrl: ' http://82.29.162.40:3001/login',
       col1Image1: '/creator.png',
       col1Image2: '/creator1.png',
       col2Image: '/creator2.png',
